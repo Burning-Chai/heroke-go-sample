@@ -1,0 +1,14 @@
+{
+  "name": "Sample heroku with Go",
+  "description": "Not example. My Project",
+  "keywords": [
+    "getting-started",
+    "go",
+    "sample",
+    "example"
+  ],
+  "image": "heroku/go:1.7",
+  "mount_dir": "src/github.com/Burning-Chai/heroke-go-sample",
+  "website": "https://github.com/Burning-Chai/heroke-go-sample",
+  "repository": "https://github.com/Burning-Chai/heroke-go-sample"
+}
