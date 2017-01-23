@@ -1,0 +1,19 @@
+html, body, main {
+  height: 100%;
+}
+
+body {
+  background-size: cover;
+  background: url(/static/images/snowman.jpg) no-repeat center center;
+  opacity: 0.5;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.oleo {
+  font-family: 'Oleo Script', cursive;
+}
